@@ -23,7 +23,7 @@ Check out the **[demo](https://matthew.wagerfield.com/parallax/)** to see it in 
 - [5. FAQ](#5-faq)
 - [6. Information](#6-information)
    - [6.1 License](#61-license)
-   - [6.2 Contributors](#62-authors)
+   - [6.2 Authors](#62-authors)
 
 # 1. Getting started
 
